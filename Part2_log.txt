@@ -1,0 +1,6 @@
+[cloudera@quickstart ~]$ cd Desktop/
+[cloudera@quickstart Desktop]$ cd Hive/
+[cloudera@quickstart Hive]$ cat clean.txt | ./Mapper.py | sort | ./Reducer.py | sort -k 2 -r -n > results.txt
+[cloudera@quickstart Hive]$ cat clean.txt | ./Mapper2.py | ./Reducer2.py
+154781124600
+[cloudera@quickstart Hive]$ 
