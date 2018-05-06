@@ -81,7 +81,9 @@ c(1,3:31)
 ggplot(data) + 
   geom_bar(aes(x = c(1,3:31), weight = V2))
   
-See the plot as plot.png
+The bar chart is shown below. 
+
+![bar](plot.png)
 
 # Part 2:
 
