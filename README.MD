@@ -1,5 +1,5 @@
 # Log Analysis with Hadoop and Hive
-# author: Zhifu Xiao
+# Author: Zhifu Xiao
 
 # Purpose: 
 
